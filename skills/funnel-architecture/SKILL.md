@@ -60,6 +60,7 @@ This skill includes comprehensive frameworks:
 
 - **`references/funnel-stages-and-flow-design.md`** - Complete stage breakdowns, flow diagrams for 5 common solopreneur funnels, traffic source mapping, and conversion benchmarks
 - **`references/funnel-optimization-playbook.md`** - Diagnostic framework, 15 common problems with solutions, testing priorities, and funnel health scorecard
+- **`references/challenge-launch-funnel-playbook.md`** - Community-based 3-day challenge launch funnel (Shift → Build → Launch) for selling backend/upsell offers to warm or cold audiences via Zalo/Telegram groups
 
 ## Best Practices
 

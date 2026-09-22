@@ -1,6 +1,6 @@
 # AI Agent Business Kit
 
-Your complete business automation system — 5 Agents, 18 Skills, 18 Commands.
+Your complete business automation system — 5 Agents, 20 Skills, 20 Commands.
 
 ## How This Kit Works
 
@@ -16,7 +16,7 @@ When a user types a `/command`, you:
 | Agent | File | Skills |
 |-------|------|--------|
 | **Offer Agent** | `agents/01-offer-agent.md` | market-research, competitor-analysis, offer-packaging |
-| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder |
+| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder, ai-visual-content, video-batch-editor |
 | **Conversion Agent** | `agents/03-conversion-agent.md` | sales-page-blueprint, copywriting, objection-handler |
 | **Deliver Agent** | `agents/04-deliver-agent.md` | payment-setup-guide, notification-setup-guide, delivery-setup-guide, landing-page-builder, vercel-deployment, payment-embed |
 | **Insights Agent** | `agents/05-insights-agent.md` | social-analytics, revenue-report, optimization-advisor |
@@ -24,14 +24,16 @@ When a user types a `/command`, you:
 ## Commands
 
 ### Offer Agent
-- `/research [niche]` — Market research and niche validation
+- `/research [niche]` — Market research and niche validation, including Voice-of-Customer mining (pain/want/hesitation/purchase-trigger/verbatim language) with source-triangulated data
 - `/competitor [name]` — Competitor analysis and gap finding
 - `/offer [product]` — Offer packaging with value stack
 
 ### Attraction Agent
-- `/funnel [type]` — Funnel architecture design
+- `/funnel [type]` — Funnel architecture design (includes 3-day challenge launch funnel for backend offers)
 - `/content [platform] [type]` — Social media content creation
 - `/lead-magnet [type] [topic]` — Lead magnet creation
+- `/visual-content [type] [product]` — Generate AI product images and video ads from prompts
+- `/video-batch [action]` — Batch edit videos: cut, caption, sync music, multi-platform export
 
 ### Conversion Agent
 - `/sales-page [action] [product]` — Sales page blueprint
@@ -41,7 +43,7 @@ When a user types a `/command`, you:
 ### Deliver Agent
 - `/payment-setup [step]` — SePay VietQR payment setup
 - `/notification [step]` — Telegram bot notification setup
-- `/delivery [method]` — Product delivery automation
+- `/delivery [method]` — Product delivery automation, including automated win-back/re-engagement sequences for lapsed customers and abandoned checkouts
 - `/landing-page [product-type] [style]` — Build deployable HTML landing page
 - `/deploy [method]` — Deploy to Vercel (CLI, Git, or drag & drop)
 - `/payment-embed [pattern]` — Add SePay VietQR payment to landing pages
