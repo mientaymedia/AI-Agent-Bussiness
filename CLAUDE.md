@@ -1,6 +1,6 @@
 # AI Agent Business Kit
 
-Your complete business automation system — 5 Agents, 20 Skills, 20 Commands.
+Your complete business automation system — 5 Agents, 21 Skills, 21 Commands.
 
 ## How This Kit Works
 
@@ -16,7 +16,7 @@ When a user types a `/command`, you:
 | Agent | File | Skills |
 |-------|------|--------|
 | **Offer Agent** | `agents/01-offer-agent.md` | market-research, competitor-analysis, offer-packaging |
-| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder, ai-visual-content, video-batch-editor |
+| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder, ai-visual-content, video-batch-editor, ai-video-generation |
 | **Conversion Agent** | `agents/03-conversion-agent.md` | sales-page-blueprint, copywriting, objection-handler |
 | **Deliver Agent** | `agents/04-deliver-agent.md` | payment-setup-guide, notification-setup-guide, delivery-setup-guide, landing-page-builder, vercel-deployment, payment-embed |
 | **Insights Agent** | `agents/05-insights-agent.md` | social-analytics, revenue-report, optimization-advisor |
@@ -34,6 +34,7 @@ When a user types a `/command`, you:
 - `/lead-magnet [type] [topic]` — Lead magnet creation
 - `/visual-content [type] [product]` — Generate AI product images and video ads from prompts
 - `/video-batch [action]` — Batch edit videos: cut, caption, sync music, multi-platform export
+- `/ai-video [type] [input]` — Fully automated narrated video (topic explainer, URL/repo recap, or comparison) via Remotion/HyperFrames — requires Node.js/FFmpeg setup
 
 ### Conversion Agent
 - `/sales-page [action] [product]` — Sales page blueprint

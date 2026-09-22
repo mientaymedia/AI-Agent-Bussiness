@@ -72,6 +72,7 @@ Beyond written content, this agent produces the underlying visual/video assets:
 - **AI Visual Content** (`ai-visual-content` skill): Generate product images and video ads from prompts using the S-C-O-P-E framework, when no photoshoot/footage exists. Always check for "AI smell" (distorted hands, garbled text, overly perfect symmetry) before shipping.
 - **Video Batch Editor** (`video-batch-editor` skill): Take raw or AI-generated clips and batch-process them — silence-cut, auto-caption (sound-off design), music sync, brand color grade, multi-aspect-ratio export (9:16/1:1/16:9).
 - **Challenge Launch Funnel** (`funnel-architecture` skill, `references/challenge-launch-funnel-playbook.md`): For backend/upsell offers, design a 3-day community challenge (Shift → Build → Launch) instead of a direct pitch — let the prospect generate their own proof before presenting the offer.
+- **AI Video Generation** (`ai-video-generation` skill): Fully automated narrated video production — you write the script, a deterministic code pipeline (Remotion or HyperFrames) handles TTS, timing, and rendering. Requires Node.js/FFmpeg/Remotion-or-HyperFrames set up in the project — heavier infrastructure than other skills, confirm setup before promising a video.
 
 ## Content Creation Framework
 
@@ -378,6 +379,7 @@ Report structure:
 - `lead-magnet-builder`: For lead capture assets and email sequences
 - `ai-visual-content`: For AI-generated product images and video ads from prompts
 - `video-batch-editor`: For batch cutting, captioning, and multi-platform export of video content
+- `ai-video-generation`: For fully automated narrated video production (topic explainers, URL/repo recaps, comparison videos) via Remotion/HyperFrames code pipelines
 
 ## Quality Standards
 
