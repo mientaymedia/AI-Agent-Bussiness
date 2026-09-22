@@ -71,6 +71,10 @@ See `references/tts-and-vietnamese-narration-setup.md` for the free-vs-paid TTS 
 
 5. **Preview before final render.** Every pipeline has a snapshot/preview step (frame snapshot in HyperFrames, `remotion studio` in Remotion) — always check the visual before spending render time on a full video.
 
+6. **Self-host GSAP instead of loading it from a CDN.** Verified via a live test render: a headless-Chrome render environment behind a corporate/sandbox proxy can fail to load `cdn.jsdelivr.net` scripts (TLS trust errors), which silently breaks every animation (`gsap is not defined`) and can fail the whole render. `npm install gsap`, copy `node_modules/gsap/dist/gsap.min.js` into the project's assets folder, and reference it with a relative `<script src="assets/gsap.min.js">` instead of the CDN URL. This is also just more reliable for repeatable production renders in general.
+
+7. **Every HyperFrames `<audio>`/`<video>` element needs a stable `id` attribute.** Verified via `hyperframes check`: without an `id`, the renderer cannot discover the media element and the clip renders **silently** with no error at render time — `check`/lint catches this before rendering, so always run `npm run check` and treat any `media_missing_id` finding as blocking, not cosmetic.
+
 ## What This Skill Does Not Do
 
 - Does not generate video from raw prompts with no script (see `ai-visual-content` for that)
