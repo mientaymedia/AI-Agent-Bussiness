@@ -2,23 +2,26 @@
 
 Content-mix rules and compliance-safe framing specific to promoting a network-marketing (Amway-style) business — layered on top of the general `content-creation` framework, not a replacement for it.
 
-## Content Mix: 80/20, Product/Lifestyle vs Opportunity
+**Read `skills/network-marketing-funnel/references/academy-icp-and-positioning.md` first.** The confirmed positioning is an "AI cho người làm Sales/SME" academy (ICP: 25-40, sales/marketing/SME background) with 3 tracks (SaaS/service building, AI content+ads, network marketing) — network-marketing/opportunity content is Track 3 only, never the account's primary identity. Everything below assumes this positioning.
+
+## Content Mix: 80/20, Academy/Skill-Building vs Opportunity
 
 The single most common content mistake in network marketing is over-indexing on "join my team" posts. Target ratio:
 
 ```
-80% — Product use, lifestyle, personal story, education about the product category
-20% — Direct opportunity/business content
+80% — AI/sales/marketing skill-building content (Track 1 & 2 territory), personal story, product education
+20% — Direct opportunity/business content (Track 3)
 ```
 
-The 80% builds trust and audience — people buy from and join people they already know and trust from genuinely useful/relatable content, not from cold opportunity pitches. The 20% exists to give warm audience members a clear path when they're ready, not to convert cold viewers.
+The 80% builds trust and audience through genuinely useful AI-for-sales/marketing content — this is what makes the academy positioning credible and keeps the audience wide (per `academy-icp-and-positioning.md`). The 20% exists to give engaged members a clear path into Track 3 when they're ready, not to convert cold viewers.
 
-## Content Pillars (Adapt Count/Names to the Actual Product Line)
+## Content Pillars (ICP: Sales/Marketing/SME Professionals 25-40)
 
-1. **Product education** — how a specific product works, what problem it solves, honest usage tips
-2. **Personal results/story** — your own experience, before/after, day-in-the-life using the product
-3. **Behind-the-business** — what building this actually looks like day to day (realistic, not hype) — this pillar does double duty: it's relatable lifestyle content AND soft opportunity exposure
-4. **Customer/team wins** — spotlighting a real customer or team member's specific result (with permission), same proof-framing rules as elsewhere in this kit
+1. **AI skill education** — practical AI-for-sales/marketing tips (prompt techniques, tools, workflows) — the core academy hook, adapt using `ai-visual-content`/`ai-video-generation`/`video-batch-editor` outputs where relevant
+2. **Personal results/story** — Henry's own experience applying AI to sales/SaaS/service work, honest and specific
+3. **Behind-the-business** — what building an AI-augmented income stream actually looks like day to day (realistic, not hype) — this pillar does double duty: relatable content AND soft Track 3 exposure for those already curious
+4. **Product education** (once a member enters Track 3) — how the specific product works, honest usage tips
+5. **Customer/student wins** — spotlighting a real academy member or team member's specific result (with permission), same proof-framing rules as elsewhere in this kit
 
 ## Platform Notes Specific to This Niche
 
@@ -32,13 +35,13 @@ Every piece of opportunity-adjacent content (the 20%) must pass the checklist in
 
 ## Content Calendar Adjustment
 
-When building a content calendar with `content-creation`'s calendar template, tag each planned post with its pillar (1-4 above) and verify the weekly mix lands near 80/20 before publishing the week — don't eyeball it, count it. A week that drifts to 50/50 product-vs-opportunity is a common, easy-to-miss failure mode that burns out an audience's tolerance faster than expected.
+When building a content calendar with `content-creation`'s calendar template, tag each planned post with its pillar (1-5 above) and verify the weekly mix lands near 80/20 before publishing the week — don't eyeball it, count it. A week that drifts to 50/50 skill-building-vs-opportunity is a common, easy-to-miss failure mode that burns out an audience's tolerance faster than expected.
 
 ## Usage Example
 
 ```
-Build a 2-week content calendar for [product category] following the 80/20
-mix and 4-pillar structure above, for Zalo + TikTok, tagging each post's
-pillar and running the opportunity-content posts through the compliance
-checklist before finalizing.
+Build a 2-week content calendar for the AI-for-sales/SME academy following
+the 80/20 mix and 5-pillar structure above, for Zalo + TikTok, tagging each
+post's pillar and running the Track 3/opportunity-content posts through the
+compliance checklist before finalizing.
 ```

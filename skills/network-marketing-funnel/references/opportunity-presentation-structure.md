@@ -7,9 +7,14 @@ The "Show" step — the actual business-opportunity explanation, adaptable to a 
 ```
 1. PROBLEM (2-3 min)
    Name the specific frustration the audience already feels — not a generic
-   "want more money" but something concrete: trading time for money with no
-   ceiling, feeling stuck in a single income stream, wanting more flexibility
-   around family time. Ground this in a real, relatable scenario.
+   "want more money" but something concrete. For the default ICP (25-40,
+   sales/marketing/SME background — see `academy-icp-and-positioning.md`):
+   income capped by hours worked despite already using AI to be more
+   efficient at their main job, or seeing AI reshape their industry and
+   wanting to turn that into a second income stream rather than just a
+   productivity gain for an employer. Ground this in a real, relatable
+   scenario — not the generic "trading time for money" framing used for a
+   broader audience.
 
 2. INDUSTRY CREDIBILITY (2-3 min)
    Establish that this is a real, large, legitimate industry/company — company

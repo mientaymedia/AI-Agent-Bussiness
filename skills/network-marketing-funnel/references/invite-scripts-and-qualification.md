@@ -8,9 +8,19 @@ Templates for the "Invite" step, plus a qualification filter so the "Show" step 
 - **Reference the specific relationship**, not a generic template blast — a message that reads as copy-pasted to 50 people gets ignored or resented.
 - **Create curiosity, not obligation.** "I thought of you because..." beats "You need to hear about this opportunity."
 
+## Default ICP for These Templates
+
+Per `academy-icp-and-positioning.md`: 25-40 tuổi, đang làm sales/marketing tại SME, chủ shop nhỏ, hoặc freelancer dịch vụ. Lead with the AI/skill-building academy angle, not Amway/MLM — Track 3 (network marketing) only comes up after they've engaged with the academy itself. The templates below are written for this ICP by default.
+
 ## Warm-Market Invite Templates (Zalo/Messenger, Casual Tone)
 
 ```
+Variation 0 (academy/skill-building angle — DEFAULT for this ICP):
+"[Tên] ơi, dạo này mình đang làm 1 nhóm nhỏ chia sẻ cách dùng AI để tăng
+hiệu quả bán hàng/marketing — thấy [Tên] cũng đang làm sales/kinh doanh nên
+nghĩ chắc hợp. Không phải khóa học bán gì đâu, mình chia sẻ thật những gì
+đang dùng. [Tên] có muốn mình gửi thử không?"
+
 Variation 1 (career-relevant angle):
 "[Tên] ơi, lâu rồi không nói chuyện! Dạo này mình đang làm thêm 1 việc bên
 cạnh công việc chính, thấy khá hay và nghĩ có thể hợp với [Tên] vì [lý do cụ
@@ -47,6 +57,12 @@ tò mò về cách mình làm, để lại comment hoặc nhắn mình nhé."
 Ask 3-5 of these in a casual conversation — the goal is filtering, not interrogating:
 
 ```markdown
+0. "Công việc hiện tại của bạn có liên quan sales/marketing/kinh doanh không?"
+   → Core ICP filter for the academy positioning — someone with zero sales/
+     business background needs a different (longer, more basic) onboarding
+     path than this funnel is designed for; not disqualifying, but flags
+     they may need Track 2 (content/ads) before Track 3 makes sense
+
 1. "Điều gì khiến bạn quan tâm đến việc có thêm thu nhập/thay đổi công việc lúc này?"
    → Reveals motivation strength — vague/no answer signals low seriousness
 

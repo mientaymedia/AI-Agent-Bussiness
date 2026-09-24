@@ -37,6 +37,7 @@ This 4-step structure is the industry-standard pattern (independently converged 
 
 ## Reference Files
 
+- **[Academy ICP & 3-Track Positioning](references/academy-icp-and-positioning.md)**: The confirmed target ICP (25-40, sales/marketing/SME background) and 3-track academy model (SaaS/service building, AI content+ads, network-marketing) — **read this first**, every other reference in this skill defaults to this positioning
 - **[Invite Scripts & Qualification](references/invite-scripts-and-qualification.md)**: Warm-market and social invite templates, qualifying questions to filter time-wasters before investing a full presentation
 - **[Opportunity Presentation Structure](references/opportunity-presentation-structure.md)**: The proven presentation arc (problem → industry credibility → business model → proof → next step), adaptable to live, Zoom, or recorded formats
 - **[Vietnam MLM Compliance Basics](references/vietnam-mlm-compliance-basics.md)**: What Vietnamese law (Nghị định 40/2018/NĐ-CP, amended by Nghị định 18/2023/NĐ-CP) requires and prohibits in multi-level marketing communications — read before publishing any invite script, landing page, or presentation
