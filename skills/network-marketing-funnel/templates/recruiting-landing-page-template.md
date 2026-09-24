@@ -1,6 +1,8 @@
 # Recruiting/Opportunity Landing Page — Template
 
-Structure for a landing page introducing the business opportunity (distinct from a product sales page — see `sales-page-blueprint` for that). Fill in brackets; run the final copy through `vietnam-mlm-compliance-basics.md`'s checklist before publishing.
+Structure for a landing page introducing the business opportunity (distinct from a product sales page — see `sales-page-blueprint` for that). Fill in brackets; run the final copy through `vietnam-mlm-compliance-basics.md`'s checklist **and** `paid-ads-compliant-funnel.md`'s checklist before publishing — the second one applies even to organic (non-paid) traffic to this page, since the trademark restriction isn't specific to ads.
+
+**De-branded by default:** this template never names the parent company (e.g. Amway) anywhere on the page, including the "Why [Company/Product Category]" section below — write that section around the *product category* (e.g. "ngành hàng chăm sóc sức khỏe/làm đẹp có mặt tại hơn 100 quốc gia") without naming the specific company. The company name is revealed at the qualification-call stage, not on this page. See `paid-ads-compliant-funnel.md` for why.
 
 ```markdown
 ## [Headline: speaks to outcome/flexibility, not product line]
@@ -18,9 +20,11 @@ Example shape: "Thêm Một Nguồn Thu Nhập, Không Cần Bỏ Công Việc H
 volume, not recruitment alone — set correct expectations upfront, this
 reduces mismatched sign-ups later]
 
-## Why [Company/Product Category]
-[Credibility: company history, product category strength, scale]
-[Do not overstate — verifiable facts only]
+## Why This Industry/Product Category
+[Credibility framed around the PRODUCT CATEGORY, not the company name —
+e.g. category scale, how long this type of business model has existed,
+category-level trust signals]
+[Do not name the company here. Do not overstate — verifiable facts only]
 
 ## What You'd Be Doing
 [Honest day-to-day picture: using products personally, sharing with others,
@@ -49,4 +53,4 @@ thu nhập."
 
 ## Pre-Publish Compliance Pass
 
-Run through `vietnam-mlm-compliance-basics.md`'s checklist in full before this goes live or receives any ad spend. Do not skip this step to save time — the legal exposure here is real, not a formality.
+Run through **both** `vietnam-mlm-compliance-basics.md`'s checklist and `paid-ads-compliant-funnel.md`'s checklist in full before this goes live or receives any ad spend. Do not skip this step to save time — the legal exposure and IBO-standing exposure here are both real, not a formality.
