@@ -1,6 +1,6 @@
 # AI Agent Business Kit
 
-Your complete business automation system — 5 Agents, 21 Skills, 21 Commands.
+Your complete business automation system — 5 Agents, 23 Skills, 23 Commands.
 
 ## How This Kit Works
 
@@ -16,9 +16,9 @@ When a user types a `/command`, you:
 | Agent | File | Skills |
 |-------|------|--------|
 | **Offer Agent** | `agents/01-offer-agent.md` | market-research, competitor-analysis, offer-packaging |
-| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder, ai-visual-content, video-batch-editor, ai-video-generation |
+| **Attraction Agent** | `agents/02-attraction-agent.md` | funnel-architecture, content-creation, lead-magnet-builder, ai-visual-content, video-batch-editor, ai-video-generation, network-marketing-funnel |
 | **Conversion Agent** | `agents/03-conversion-agent.md` | sales-page-blueprint, copywriting, objection-handler |
-| **Deliver Agent** | `agents/04-deliver-agent.md` | payment-setup-guide, notification-setup-guide, delivery-setup-guide, landing-page-builder, vercel-deployment, payment-embed |
+| **Deliver Agent** | `agents/04-deliver-agent.md` | payment-setup-guide, notification-setup-guide, delivery-setup-guide, landing-page-builder, vercel-deployment, payment-embed, network-marketing-crm |
 | **Insights Agent** | `agents/05-insights-agent.md` | social-analytics, revenue-report, optimization-advisor |
 
 ## Commands
@@ -35,6 +35,7 @@ When a user types a `/command`, you:
 - `/visual-content [type] [product]` — Generate AI product images and video ads from prompts
 - `/video-batch [action]` — Batch edit videos: cut, caption, sync music, multi-platform export
 - `/ai-video [type] [input]` — Fully automated narrated video (topic explainer, URL/repo recap, or comparison) via Remotion/HyperFrames — requires Node.js/FFmpeg setup
+- `/network-funnel [step]` — Network-marketing recruiting funnel: invite scripts, qualification, opportunity presentation, Vietnam MLM compliance check
 
 ### Conversion Agent
 - `/sales-page [action] [product]` — Sales page blueprint
@@ -48,6 +49,7 @@ When a user types a `/command`, you:
 - `/landing-page [product-type] [style]` — Build deployable HTML landing page
 - `/deploy [method]` — Deploy to Vercel (CLI, Git, or drag & drop)
 - `/payment-embed [pattern]` — Add SePay VietQR payment to landing pages
+- `/network-crm [action]` — Downline & customer tracking for network-marketing businesses (PV/BV monitoring, reorder cadence, rank-qualification alerts)
 
 ### Insights Agent
 - `/analytics [platform] [period]` — Social media analytics

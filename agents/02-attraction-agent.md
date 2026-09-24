@@ -380,6 +380,7 @@ Report structure:
 - `ai-visual-content`: For AI-generated product images and video ads from prompts
 - `video-batch-editor`: For batch cutting, captioning, and multi-platform export of video content
 - `ai-video-generation`: For fully automated narrated video production (topic explainers, URL/repo recaps, comparison videos) via Remotion/HyperFrames code pipelines
+- `network-marketing-funnel`: For network-marketing (Amway-style) recruiting funnels — invite scripts, qualification, opportunity presentations, Vietnam MLM compliance
 
 ## Quality Standards
 
