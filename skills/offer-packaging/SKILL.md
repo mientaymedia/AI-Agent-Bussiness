@@ -17,6 +17,10 @@ Activate this skill when you need to:
 - Package digital products, courses, coaching, or templates
 - Optimize conversion through strategic offer design
 
+## Reference Files
+
+- **[Proven Launch Playbook](references/proven-launch-playbook.md)**: Structural pattern synthesized from analyzing three real launch funnels (price anchoring formula, bonus-stack formula, conditional-guarantee formula, named AI-assistant pattern, flagship-proof-case formula, urgency mechanics, 2-step funnel) — the default template for packaging a new offer, including a network-marketing/affiliate training offer.
+
 ## Core Offer Design Principles
 
 ### 1. Value > Price

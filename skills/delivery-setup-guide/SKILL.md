@@ -77,6 +77,9 @@ Full technical implementation. Webhook handling, delivery code examples, error h
 ### [post-purchase-engagement-sequence.md](references/post-purchase-engagement-sequence.md)
 7-touchpoint sequence from purchase to upsell. Email/Telegram templates, timing strategy, automation setup.
 
+### [win-back-reengagement-sequence.md](references/win-back-reengagement-sequence.md)
+3-message automated win-back sequence (Day 30/45/60) for customers who go silent after the post-purchase sequence ends, plus an abandoned-checkout (unpaid VietQR) recovery variant. Trigger logic, templates, and automation code.
+
 ## Key Principles
 
 **Instant delivery** — Buyer receives access within 60 seconds of payment
