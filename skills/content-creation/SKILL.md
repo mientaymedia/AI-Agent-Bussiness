@@ -42,6 +42,7 @@ This skill operates on three foundational principles:
 - **[Social Post Templates Library](references/social-post-templates-library.md)**: Platform-specific templates with hooks, structures, and CTA options
 - **[Video Script Framework](references/video-script-framework.md)**: Script systems for all video lengths with hook formulas and pacing guidelines
 - **[Content Calendar Template](references/content-calendar-template.md)**: Weekly/monthly planning templates with batch workflow and tracking systems
+- **[Network Marketing Content Guide](references/network-marketing-content-guide.md)**: 80/20 product-vs-opportunity content mix, platform priorities, and compliance layer for promoting a network-marketing (Amway-style) business
 
 ## Best Practices
 

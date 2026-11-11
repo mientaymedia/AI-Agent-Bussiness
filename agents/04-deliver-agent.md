@@ -375,6 +375,7 @@ This agent activates specialized skills from the business kit:
 - `skills/landing-page-builder/` - Build deployable HTML landing pages with Tailwind CSS
 - `skills/vercel-deployment/` - Deploy landing pages to Vercel (CLI, Git, drag & drop)
 - `skills/payment-embed/` - Embed SePay VietQR payment into landing pages
+- `skills/network-marketing-crm/` - Downline & customer tracking for network-marketing (Amway-style) businesses — PV/BV monitoring, follow-up cadence
 
 ## Workflow Triggers
 

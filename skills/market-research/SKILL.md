@@ -90,6 +90,13 @@ Fetch specific pages when search results point to valuable sources:
 - Fetch marketplace listings → extract sales volumes + price ranges
 - Fetch Facebook Ad Library → extract active ad creatives + messaging
 
+#### Step 2.5: Voice-of-Customer Mining (Do Not Skip)
+Sizing and trend data alone tell you demand exists — they do not tell you what to say to convert it. Mine real customer language and cross-check every number:
+- Run the search-query playbook against review sites, forums, and competitor comment sections
+- Extract 15-30 verbatim quotes, sort into 5 buckets: Đau (pain), Muốn (want), Ngại (hesitation), Lý do quyết định mua (purchase trigger), Từ ngữ khách hay dùng (verbatim language)
+- Cross-check every sizing/demand number against 3 independent sources before using it; log source + date for each
+- See **[Voice-of-Customer Mining](./references/voice-of-customer-mining.md)** for the full methodology, query playbook, and report template
+
 ### Advanced Tools (requires MCP setup)
 
 #### Step 3: Sequential Thinking (For Complex Analysis)
@@ -136,6 +143,12 @@ Detailed methodologies and templates:
    - Quick validation protocol (2-hour sprint)
    - Pass/fail thresholds
 
+4. **[Voice-of-Customer Mining](./references/voice-of-customer-mining.md)**
+   - Real customer language extraction (5-bucket framework: pain/want/hesitation/purchase-trigger/verbatim)
+   - Search-query playbook for demand, VoC, and competitor messaging
+   - Source-triangulation rule (source + date + 3-way cross-check on every number)
+   - Voice-of-Customer table template
+
 ## Best Practices
 
 1. **Start Broad, Narrow Systematically**
@@ -181,7 +194,8 @@ When completing market research, produce:
 1. **Niche Research Report**: Comprehensive analysis with demand evidence, competition overview, and opportunity assessment
 2. **Market Sizing Model**: Spreadsheet with TAM/SAM/SOM calculations and revenue projections
 3. **Validation Scorecard**: Completed checklist with scores and recommendations
-4. **Entry Strategy Brief**: Go-to-market plan with positioning, messaging, and tactics
+4. **Voice-of-Customer Table**: 5-bucket breakdown of real customer language, every number sourced and dated (see `references/voice-of-customer-mining.md`)
+5. **Entry Strategy Brief**: Go-to-market plan with positioning, messaging, and tactics
 
 ## Success Metrics
 
@@ -199,7 +213,7 @@ Research quality indicators:
 - **Ignoring Competition**: Competitors validate demand but show challenges
 - **Vanity Metrics**: Focus on revenue potential, not just audience size
 - **Skipping Validation**: Never skip demand confirmation steps
-- **One Data Source**: Always triangulate with multiple evidence types
+- **One Data Source**: Always triangulate with multiple evidence types — every number needs a source, a date, and 3-way cross-check (see `references/voice-of-customer-mining.md`)
 
 ---
 
